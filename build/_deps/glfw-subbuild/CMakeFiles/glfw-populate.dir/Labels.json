@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/prakh/source/repos/dxrt/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate"
+		},
+		{
+			"file" : "C:/Users/prakh/source/repos/dxrt/build/_deps/glfw-subbuild/CMakeFiles/72dc36a5631457d3dc06a010c8d2e09c/glfw-populate.rule"
+		},
+		{
+			"file" : "C:/Users/prakh/source/repos/dxrt/build/_deps/glfw-subbuild/CMakeFiles/09ee0705af34d60edc1635e81b8b6249/glfw-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/prakh/source/repos/dxrt/build/_deps/glfw-subbuild/CMakeFiles/047347b153797ddd94c2afb87f9e94da/glfw-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/prakh/source/repos/dxrt/build/_deps/glfw-subbuild/CMakeFiles/047347b153797ddd94c2afb87f9e94da/glfw-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/prakh/source/repos/dxrt/build/_deps/glfw-subbuild/CMakeFiles/047347b153797ddd94c2afb87f9e94da/glfw-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/prakh/source/repos/dxrt/build/_deps/glfw-subbuild/CMakeFiles/047347b153797ddd94c2afb87f9e94da/glfw-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/prakh/source/repos/dxrt/build/_deps/glfw-subbuild/CMakeFiles/047347b153797ddd94c2afb87f9e94da/glfw-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/prakh/source/repos/dxrt/build/_deps/glfw-subbuild/CMakeFiles/047347b153797ddd94c2afb87f9e94da/glfw-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/prakh/source/repos/dxrt/build/_deps/glfw-subbuild/CMakeFiles/047347b153797ddd94c2afb87f9e94da/glfw-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/prakh/source/repos/dxrt/build/_deps/glfw-subbuild/CMakeFiles/047347b153797ddd94c2afb87f9e94da/glfw-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-populate"
+		],
+		"name" : "glfw-populate"
+	}
+}

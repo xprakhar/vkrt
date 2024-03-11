@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\prakh\source\repos\dxrt\build\_deps\vulkan-headers-subbuild\CMakeFiles\ad8ab0bc5e37894febc4b164e3bdcbc6\vulkan-headers-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\prakh\source\repos\dxrt\build\_deps\vulkan-headers-subbuild\CMakeFiles\ad8ab0bc5e37894febc4b164e3bdcbc6\vulkan-headers-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\prakh\source\repos\dxrt\build\_deps\vulkan-headers-subbuild\CMakeFiles\ad8ab0bc5e37894febc4b164e3bdcbc6\vulkan-headers-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\prakh\source\repos\dxrt\build\_deps\vulkan-headers-subbuild\CMakeFiles\ad8ab0bc5e37894febc4b164e3bdcbc6\vulkan-headers-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\prakh\source\repos\dxrt\build\_deps\vulkan-headers-subbuild\CMakeFiles\ad8ab0bc5e37894febc4b164e3bdcbc6\vulkan-headers-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\prakh\source\repos\dxrt\build\_deps\vulkan-headers-subbuild\CMakeFiles\ad8ab0bc5e37894febc4b164e3bdcbc6\vulkan-headers-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\prakh\source\repos\dxrt\build\_deps\vulkan-headers-subbuild\CMakeFiles\ad8ab0bc5e37894febc4b164e3bdcbc6\vulkan-headers-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\prakh\source\repos\dxrt\build\_deps\vulkan-headers-subbuild\CMakeFiles\ad8ab0bc5e37894febc4b164e3bdcbc6\vulkan-headers-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\prakh\source\repos\dxrt\build\_deps\vulkan-headers-subbuild\CMakeFiles\872b84079d5440c380e5a70a130cdc5e\vulkan-headers-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\prakh\source\repos\dxrt\build\_deps\vulkan-headers-subbuild\CMakeFiles\6b2151c1cac40032c6b1a68c7f78eb40\vulkan-headers-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\prakh\source\repos\dxrt\build\_deps\vulkan-headers-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\prakh\source\repos\dxrt\build\_deps\vulkan-headers-subbuild\CMakeFiles\vulkan-headers-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2E938147-0C35-36AC-AF24-CA2BD9E8FB30}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

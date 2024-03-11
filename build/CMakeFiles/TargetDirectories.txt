@@ -1,0 +1,17 @@
+C:/Users/prakh/source/repos/dxrt/build/CMakeFiles/INSTALL.dir
+C:/Users/prakh/source/repos/dxrt/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/prakh/source/repos/dxrt/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/prakh/source/repos/dxrt/build/source/CMakeFiles/vkrt.dir
+C:/Users/prakh/source/repos/dxrt/build/source/CMakeFiles/INSTALL.dir
+C:/Users/prakh/source/repos/dxrt/build/_deps/glfw-build/CMakeFiles/uninstall.dir
+C:/Users/prakh/source/repos/dxrt/build/_deps/glfw-build/CMakeFiles/INSTALL.dir
+C:/Users/prakh/source/repos/dxrt/build/_deps/glfw-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/prakh/source/repos/dxrt/build/_deps/glfw-build/src/CMakeFiles/glfw.dir
+C:/Users/prakh/source/repos/dxrt/build/_deps/glfw-build/src/CMakeFiles/update_mappings.dir
+C:/Users/prakh/source/repos/dxrt/build/_deps/glfw-build/src/CMakeFiles/INSTALL.dir
+C:/Users/prakh/source/repos/dxrt/build/_deps/vulkan-headers-build/CMakeFiles/INSTALL.dir
+C:/Users/prakh/source/repos/dxrt/build/_deps/vulkan-headers-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/prakh/source/repos/dxrt/build/_deps/glm-build/CMakeFiles/INSTALL.dir
+C:/Users/prakh/source/repos/dxrt/build/_deps/glm-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/prakh/source/repos/dxrt/build/_deps/glm-build/glm/CMakeFiles/glm.dir
+C:/Users/prakh/source/repos/dxrt/build/_deps/glm-build/glm/CMakeFiles/INSTALL.dir

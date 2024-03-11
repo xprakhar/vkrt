@@ -1,0 +1,14 @@
+# Target labels
+ stb-populate
+# Source files and their labels
+C:/Users/prakh/source/repos/dxrt/build/_deps/stb-subbuild/CMakeFiles/stb-populate
+C:/Users/prakh/source/repos/dxrt/build/_deps/stb-subbuild/CMakeFiles/8d4f3cd21a14d54b1fc76a5115282bdb/stb-populate.rule
+C:/Users/prakh/source/repos/dxrt/build/_deps/stb-subbuild/CMakeFiles/ce0c3f413dcc82661162090dd6d540c2/stb-populate-complete.rule
+C:/Users/prakh/source/repos/dxrt/build/_deps/stb-subbuild/CMakeFiles/7a789511dcf294b300ad2092605907d1/stb-populate-build.rule
+C:/Users/prakh/source/repos/dxrt/build/_deps/stb-subbuild/CMakeFiles/7a789511dcf294b300ad2092605907d1/stb-populate-configure.rule
+C:/Users/prakh/source/repos/dxrt/build/_deps/stb-subbuild/CMakeFiles/7a789511dcf294b300ad2092605907d1/stb-populate-download.rule
+C:/Users/prakh/source/repos/dxrt/build/_deps/stb-subbuild/CMakeFiles/7a789511dcf294b300ad2092605907d1/stb-populate-install.rule
+C:/Users/prakh/source/repos/dxrt/build/_deps/stb-subbuild/CMakeFiles/7a789511dcf294b300ad2092605907d1/stb-populate-mkdir.rule
+C:/Users/prakh/source/repos/dxrt/build/_deps/stb-subbuild/CMakeFiles/7a789511dcf294b300ad2092605907d1/stb-populate-patch.rule
+C:/Users/prakh/source/repos/dxrt/build/_deps/stb-subbuild/CMakeFiles/7a789511dcf294b300ad2092605907d1/stb-populate-test.rule
+C:/Users/prakh/source/repos/dxrt/build/_deps/stb-subbuild/CMakeFiles/7a789511dcf294b300ad2092605907d1/stb-populate-update.rule

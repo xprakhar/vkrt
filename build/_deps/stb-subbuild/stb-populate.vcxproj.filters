@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\prakh\source\repos\dxrt\build\_deps\stb-subbuild\CMakeFiles\7a789511dcf294b300ad2092605907d1\stb-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\prakh\source\repos\dxrt\build\_deps\stb-subbuild\CMakeFiles\7a789511dcf294b300ad2092605907d1\stb-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\prakh\source\repos\dxrt\build\_deps\stb-subbuild\CMakeFiles\7a789511dcf294b300ad2092605907d1\stb-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\prakh\source\repos\dxrt\build\_deps\stb-subbuild\CMakeFiles\7a789511dcf294b300ad2092605907d1\stb-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\prakh\source\repos\dxrt\build\_deps\stb-subbuild\CMakeFiles\7a789511dcf294b300ad2092605907d1\stb-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\prakh\source\repos\dxrt\build\_deps\stb-subbuild\CMakeFiles\7a789511dcf294b300ad2092605907d1\stb-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\prakh\source\repos\dxrt\build\_deps\stb-subbuild\CMakeFiles\7a789511dcf294b300ad2092605907d1\stb-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\prakh\source\repos\dxrt\build\_deps\stb-subbuild\CMakeFiles\7a789511dcf294b300ad2092605907d1\stb-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\prakh\source\repos\dxrt\build\_deps\stb-subbuild\CMakeFiles\ce0c3f413dcc82661162090dd6d540c2\stb-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\prakh\source\repos\dxrt\build\_deps\stb-subbuild\CMakeFiles\8d4f3cd21a14d54b1fc76a5115282bdb\stb-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\prakh\source\repos\dxrt\build\_deps\stb-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\prakh\source\repos\dxrt\build\_deps\stb-subbuild\CMakeFiles\stb-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B484F641-0793-3DF7-A125-0F3603E6B715}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

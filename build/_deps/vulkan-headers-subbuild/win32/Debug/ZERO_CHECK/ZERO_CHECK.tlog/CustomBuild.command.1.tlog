@@ -1,0 +1,10 @@
+^C:\USERS\PRAKH\SOURCE\REPOS\DXRT\BUILD\_DEPS\VULKAN-HEADERS-SUBBUILD\CMAKEFILES\6B2151C1CAC40032C6B1A68C7F78EB40\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/prakh/source/repos/dxrt/build/_deps/vulkan-headers-subbuild -BC:/Users/prakh/source/repos/dxrt/build/_deps/vulkan-headers-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/prakh/source/repos/dxrt/build/_deps/vulkan-headers-subbuild/vulkan-headers-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

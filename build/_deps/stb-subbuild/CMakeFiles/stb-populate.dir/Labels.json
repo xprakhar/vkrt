@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/prakh/source/repos/dxrt/build/_deps/stb-subbuild/CMakeFiles/stb-populate"
+		},
+		{
+			"file" : "C:/Users/prakh/source/repos/dxrt/build/_deps/stb-subbuild/CMakeFiles/8d4f3cd21a14d54b1fc76a5115282bdb/stb-populate.rule"
+		},
+		{
+			"file" : "C:/Users/prakh/source/repos/dxrt/build/_deps/stb-subbuild/CMakeFiles/ce0c3f413dcc82661162090dd6d540c2/stb-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/prakh/source/repos/dxrt/build/_deps/stb-subbuild/CMakeFiles/7a789511dcf294b300ad2092605907d1/stb-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/prakh/source/repos/dxrt/build/_deps/stb-subbuild/CMakeFiles/7a789511dcf294b300ad2092605907d1/stb-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/prakh/source/repos/dxrt/build/_deps/stb-subbuild/CMakeFiles/7a789511dcf294b300ad2092605907d1/stb-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/prakh/source/repos/dxrt/build/_deps/stb-subbuild/CMakeFiles/7a789511dcf294b300ad2092605907d1/stb-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/prakh/source/repos/dxrt/build/_deps/stb-subbuild/CMakeFiles/7a789511dcf294b300ad2092605907d1/stb-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/prakh/source/repos/dxrt/build/_deps/stb-subbuild/CMakeFiles/7a789511dcf294b300ad2092605907d1/stb-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/prakh/source/repos/dxrt/build/_deps/stb-subbuild/CMakeFiles/7a789511dcf294b300ad2092605907d1/stb-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/prakh/source/repos/dxrt/build/_deps/stb-subbuild/CMakeFiles/7a789511dcf294b300ad2092605907d1/stb-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"stb-populate"
+		],
+		"name" : "stb-populate"
+	}
+}

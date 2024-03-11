@@ -1,0 +1,150 @@
+^C:\USERS\PRAKH\SOURCE\REPOS\DXRT\BUILD\_DEPS\VULKAN-HEADERS-SUBBUILD\CMAKEFILES\AD8AB0BC5E37894FEBC4B164E3BDCBC6\VULKAN-HEADERS-POPULATE-MKDIR.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P C:/Users/prakh/source/repos/dxrt/build/_deps/vulkan-headers-subbuild/vulkan-headers-populate-prefix/tmp/vulkan-headers-populate-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/Users/prakh/source/repos/dxrt/build/_deps/vulkan-headers-subbuild/vulkan-headers-populate-prefix/src/vulkan-headers-populate-stamp/Debug/vulkan-headers-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PRAKH\SOURCE\REPOS\DXRT\BUILD\_DEPS\VULKAN-HEADERS-SUBBUILD\CMAKEFILES\AD8AB0BC5E37894FEBC4B164E3BDCBC6\VULKAN-HEADERS-POPULATE-DOWNLOAD.RULE
+setlocal
+cd C:\Users\prakh\source\repos\dxrt\build\_deps
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -P C:/Users/prakh/source/repos/dxrt/build/_deps/vulkan-headers-subbuild/vulkan-headers-populate-prefix/tmp/vulkan-headers-populate-gitclone.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/Users/prakh/source/repos/dxrt/build/_deps/vulkan-headers-subbuild/vulkan-headers-populate-prefix/src/vulkan-headers-populate-stamp/Debug/vulkan-headers-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PRAKH\SOURCE\REPOS\DXRT\BUILD\_DEPS\VULKAN-HEADERS-SUBBUILD\CMAKEFILES\AD8AB0BC5E37894FEBC4B164E3BDCBC6\VULKAN-HEADERS-POPULATE-UPDATE.RULE
+setlocal
+cd C:\Users\prakh\source\repos\dxrt\build\_deps\vulkan-headers-src
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -P C:/Users/prakh/source/repos/dxrt/build/_deps/vulkan-headers-subbuild/vulkan-headers-populate-prefix/tmp/vulkan-headers-populate-gitupdate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PRAKH\SOURCE\REPOS\DXRT\BUILD\_DEPS\VULKAN-HEADERS-SUBBUILD\CMAKEFILES\AD8AB0BC5E37894FEBC4B164E3BDCBC6\VULKAN-HEADERS-POPULATE-PATCH.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/Users/prakh/source/repos/dxrt/build/_deps/vulkan-headers-subbuild/vulkan-headers-populate-prefix/src/vulkan-headers-populate-stamp/Debug/vulkan-headers-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PRAKH\SOURCE\REPOS\DXRT\BUILD\_DEPS\VULKAN-HEADERS-SUBBUILD\CMAKEFILES\AD8AB0BC5E37894FEBC4B164E3BDCBC6\VULKAN-HEADERS-POPULATE-CONFIGURE.RULE
+setlocal
+cd C:\Users\prakh\source\repos\dxrt\build\_deps\vulkan-headers-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/Users/prakh/source/repos/dxrt/build/_deps/vulkan-headers-subbuild/vulkan-headers-populate-prefix/src/vulkan-headers-populate-stamp/Debug/vulkan-headers-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PRAKH\SOURCE\REPOS\DXRT\BUILD\_DEPS\VULKAN-HEADERS-SUBBUILD\CMAKEFILES\AD8AB0BC5E37894FEBC4B164E3BDCBC6\VULKAN-HEADERS-POPULATE-BUILD.RULE
+setlocal
+cd C:\Users\prakh\source\repos\dxrt\build\_deps\vulkan-headers-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/Users/prakh/source/repos/dxrt/build/_deps/vulkan-headers-subbuild/vulkan-headers-populate-prefix/src/vulkan-headers-populate-stamp/Debug/vulkan-headers-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PRAKH\SOURCE\REPOS\DXRT\BUILD\_DEPS\VULKAN-HEADERS-SUBBUILD\CMAKEFILES\AD8AB0BC5E37894FEBC4B164E3BDCBC6\VULKAN-HEADERS-POPULATE-INSTALL.RULE
+setlocal
+cd C:\Users\prakh\source\repos\dxrt\build\_deps\vulkan-headers-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/Users/prakh/source/repos/dxrt/build/_deps/vulkan-headers-subbuild/vulkan-headers-populate-prefix/src/vulkan-headers-populate-stamp/Debug/vulkan-headers-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PRAKH\SOURCE\REPOS\DXRT\BUILD\_DEPS\VULKAN-HEADERS-SUBBUILD\CMAKEFILES\AD8AB0BC5E37894FEBC4B164E3BDCBC6\VULKAN-HEADERS-POPULATE-TEST.RULE
+setlocal
+cd C:\Users\prakh\source\repos\dxrt\build\_deps\vulkan-headers-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/Users/prakh/source/repos/dxrt/build/_deps/vulkan-headers-subbuild/vulkan-headers-populate-prefix/src/vulkan-headers-populate-stamp/Debug/vulkan-headers-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PRAKH\SOURCE\REPOS\DXRT\BUILD\_DEPS\VULKAN-HEADERS-SUBBUILD\CMAKEFILES\872B84079D5440C380E5A70A130CDC5E\VULKAN-HEADERS-POPULATE-COMPLETE.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E make_directory C:/Users/prakh/source/repos/dxrt/build/_deps/vulkan-headers-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/Users/prakh/source/repos/dxrt/build/_deps/vulkan-headers-subbuild/CMakeFiles/Debug/vulkan-headers-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/Users/prakh/source/repos/dxrt/build/_deps/vulkan-headers-subbuild/vulkan-headers-populate-prefix/src/vulkan-headers-populate-stamp/Debug/vulkan-headers-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PRAKH\SOURCE\REPOS\DXRT\BUILD\_DEPS\VULKAN-HEADERS-SUBBUILD\CMAKEFILES\6B2151C1CAC40032C6B1A68C7F78EB40\VULKAN-HEADERS-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PRAKH\SOURCE\REPOS\DXRT\BUILD\_DEPS\VULKAN-HEADERS-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/prakh/source/repos/dxrt/build/_deps/vulkan-headers-subbuild -BC:/Users/prakh/source/repos/dxrt/build/_deps/vulkan-headers-subbuild --check-stamp-file C:/Users/prakh/source/repos/dxrt/build/_deps/vulkan-headers-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
